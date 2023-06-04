@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nav_main"
+            android:title="Main Menu" />
+        <item
+            android:id="@+id/nav_notes"
+            android:title="Notes" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Note Details" />
+</menu>
